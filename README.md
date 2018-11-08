@@ -7,6 +7,7 @@ I use some cubemap as light source.
 
 about project operator:
 you can move mouse to rotate light source and press to backspace to change a light source in run-time.
+you can change the value of CoffeeSHPath on SHRender1 Component to watch the different about self-shadow and InterReflection.
 
 about project Scripts:
 coffeeSHIntegrator : these part pre-Compute DiffuseWithShadow-SH  Light tranfer Function Integrator.
@@ -28,6 +29,7 @@ you can get more information from my blog:
 
 操作：
 你可以移动鼠标来移动光源，按下空格切换一个光源。
+你可以修改SHRender1 组件下 CoffeeSHPath 的路径 (dragon.txt or dragonInterReflection.txt) 来观看自阴影和内反射的不同。
 
 脚本：
 coffeeSHIntegrator.cs: 用于Diffuse&自阴影效果的光照传输函数的预计算积分
