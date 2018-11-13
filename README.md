@@ -18,7 +18,7 @@ SHRender1.cs & SHRender1.shader: Run-time Render SH with GPU and ps-part.
 
 about SphericalHarmonicLighting:
 
-you can get more information from my blog:
+you can get more information from my blog:https://blog.csdn.net/qq_33999892/article/details/83862583
 
 ##############################
 
@@ -38,4 +38,4 @@ LightSHIntegrator.cs:用于光源的预计算积分
 SHRender：在CPU的SH实时渲染
 SHRender1：在GPU端的SH实时渲染
 
-关于球谐光照，你可以获取更多的信息从我的博客：
+关于球谐光照，你可以获取更多的信息从我的博客：https://blog.csdn.net/qq_33999892/article/details/83862583
